@@ -1,0 +1,10 @@
+{
+    "comic_data": {
+        "name": "Frieren",
+        "max_chapter": 1,
+        "partial_chapter_url": "https://www.frieren.online/manga/frieren-beyond-journeys-end-chapter-",
+        "chapter_exceptions": [],
+        "skip_chapters": [],
+        "start_chapter": 1
+    }
+}

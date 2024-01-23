@@ -1,0 +1,7 @@
+{
+    "config": {
+        "save_path": "D:/OneDrive/Skrivbord/Books/comics/",
+        "comics_data_path": "./ComicDownload/comics/",
+        "wkhtmltopdf_path": "D:/dev/wkhtmltopdf/bin/wkhtmltopdf.exe"
+    }
+}
